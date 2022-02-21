@@ -9,7 +9,5 @@ steps:
   - echo hello
   - echo world
 
-trigger:
-  branch:
-  - master
+
 
