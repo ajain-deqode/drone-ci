@@ -9,5 +9,6 @@ steps:
   commands:
   - echo hello
   - echo world
+  - echo "new git push"
 
 
