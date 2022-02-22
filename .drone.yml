@@ -5,7 +5,7 @@ name: default
 
 steps:
 - name: greeting
-  image: alpine
+  image: ubuntu
   commands:
   - echo hello
   - echo world
