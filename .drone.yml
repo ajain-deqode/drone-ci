@@ -9,7 +9,4 @@ steps:
   - echo hello
   - echo world
 
-trigger:
-  event:
-  - push
 
